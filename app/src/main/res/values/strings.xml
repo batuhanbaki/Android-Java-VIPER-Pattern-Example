@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VIPER</string>
+    <string name="login_btn_text">Giriş Yap</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">********</string>
+</resources>
